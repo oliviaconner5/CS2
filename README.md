@@ -32,9 +32,7 @@
 | Classification | Type of tumor (benign, malignant, or normal)|
 
 ## Figures
-Add figures once created
-| Figure | Takeaways | 
-| -------- | -------- |
+
 
 ## References
 [1] W. Al-Dhabyani, M. Gomaa, H. Khaled, and A. Fahmy, "Dataset of breast ultrasound images," Data in Brief, vol. 28, p. 104863, 2020. [Online]. Available: https://doi.org/10.1016/j.dib.2019.104863.
