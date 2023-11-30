@@ -35,11 +35,13 @@
 
 
 ## References
+Hook Document and Rubric: https://docs.google.com/document/d/1TZ2uc0H-phV1Razy583DDxh7KtPKgr4EtDap_A_3H00/edit?usp=sharing
+
 [1] W. Al-Dhabyani, M. Gomaa, H. Khaled, and A. Fahmy, "Dataset of breast ultrasound images," Data in Brief, vol. 28, p. 104863, 2020. [Online]. Available: https://doi.org/10.1016/j.dib.2019.104863.
 
 [2] G. Ayana, K. Dese, and S. Choe, "Transfer Learning in Breast Cancer Diagnoses via Ultrasound Imaging," Cancers, vol. 13, no. 4, p. 738, 2021. [Online]. Available: https://doi.org/10.3390/cancers13040738.
 
-[3] F. Chollet, "Data Preprocessing," TensorFlow, 2017. [Online]. Available: https://www.tensorflow.org/tutorials/images/transfer_learning#data_preprocessing. 
+[3] (Extra Resource) F. Chollet, "Data Preprocessing," TensorFlow, 2017. [Online]. Available: https://www.tensorflow.org/tutorials/images/transfer_learning#data_preprocessing. 
 
 ### Acknowledgements
 Special thanks to Professor Alonzi and Harsh for providing the outline for this rubric and for completing a great semester of DS4002. The structure is pulled from Streifer & Palmer (2020).
